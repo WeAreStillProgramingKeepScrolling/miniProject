@@ -1,3 +1,31 @@
 body{
     background-color: rgba(97, 97, 97, 0.836);
 }
+img{
+    width:200px;
+    height:150px;
+    border-style: outset;
+    border-color: gainsboro;
+    align-content: flex-start;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    background: #3399ff;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul li{
+    border:2px, solid, black;
+    border-radius: 5px;
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;
+}
